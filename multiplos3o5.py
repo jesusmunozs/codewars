@@ -14,6 +14,8 @@ def solution(number):
             acum += i
     return acum
 
+def solution_2(number):
+    return sum(x for x in range(number) if x % 3 == 0 or x % 5 == 0)
 
 print(solution(10))
 
