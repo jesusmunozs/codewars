@@ -1,1 +1,2 @@
 # codewars
+Este es un repositorio que concentra mi camino por la página página https://codewars.com , mi segunda finalidad es dar mis soliciones para quienes les sea de ayuda, ya sea, para refactorizar o como solucion
