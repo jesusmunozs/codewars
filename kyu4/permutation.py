@@ -17,4 +17,4 @@ def permutations(s):
             todas_las_permutaciones.append(char + perm_restante)
 
     return todas_las_permutaciones
-print(permutations("abc"))
+print(permutations("ab"))
