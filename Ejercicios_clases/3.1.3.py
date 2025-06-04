@@ -16,8 +16,9 @@ while True:
     print("(5). Salir")
     try:
         opc = int(input("Ingrese opción: "))
-    except ValueError:
+    except:
         print("Ingrese 1, 2, 3 o 4")
+        continue
 
     if opc == 1:
         try:
@@ -63,3 +64,4 @@ while True:
         break       
     else:
         print("Ingrese 1, 2, 3 o 4")
+        
